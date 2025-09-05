@@ -1,7 +1,6 @@
-# Projeto Jogo Do Mario
-<h1></h1>
-<img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_cLt1d2sopagMWOCAUdyr-XyqFEkxInw3VMLdj85N3ZAdvJWGy_8oDLTADgta1azQ1E-Emu7-kJc8_Y8VuX6QO-ajlgq7kCHPSVsERvPRc-D-iu-8IUdBkWQkbQm4DiFQotUbLv-TJLGLo-7e9zy28N3EKKNQmKJkl5hMsnsYCzuJKFVk4736-Zy/s780/super-mario.webp">
-<h2>Tecnologias Utilizadas</h2>
-<li>Javascript</li>
-<li>Html</li>
-<li>Css</li>
+# 🍄 super mario  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Um jogo do Super Mario clássico recriado com HTML, CSS e JavaScript, trazendo a nostalgia dos games de plataforma diretamente no navegador!
